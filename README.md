@@ -1,5 +1,5 @@
 # Data_Track_illegal_activities
-This repository contains datasets of illigal ativities such as
+This repository contains datasets of illegal ativities such as
 
 * Smoking
 * Child begging 
